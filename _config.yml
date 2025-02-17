@@ -13,7 +13,7 @@ title                    : "Giovanni Terefi"
 title_separator          : "-"
 name                     : &name "Giovanni Terefi"
 description              : &description ""
-url                      : https://gteref.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://gteref.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "GTeref/gterefi"
 
@@ -28,7 +28,7 @@ author:
   bio              : "Senior Computer Science & Applied Mathematics student with interests in software development, robotics, and biomedical informatics."
   location         : "Stony Brook, NY"
   employer         : "Stony Brook University"
-  uri              : "gterefi.github.io"
+  uri              : 
   email            : "giovanniivaterefi@gmail.com" 
 
   # Academic websites
