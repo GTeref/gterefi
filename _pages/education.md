@@ -14,4 +14,5 @@ redirect_from:
                                Web Security
     * **Awards**: Dean's List (2 semesters)
 * **A.S. in Computer Science, Whatcom Community College, Sep 2020 - June 2022**
+    * **GPA**: 3.83/4.00
     * **Awards**: Dean's List (5 semesters)
