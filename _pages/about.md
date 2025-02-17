@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Hello!
-My name is Giovanni, and I am a senior-year student from Indonesia, currently majoring in Computer Science & Applied Mathematics and Statistics at Stony Brook University.
+My name is Giovanni, and I am a senior-year student from Indonesia. I am currently studying Computer Science & Applied Mathematics and Statistics at Stony Brook University.
 
 I am an ambitious and driven student, always interested in the latest technologies and eager to learn new skills. 
 
