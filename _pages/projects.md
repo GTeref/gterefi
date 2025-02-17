@@ -7,7 +7,7 @@ redirect_from:
   - /projects.html
 ---
 
-![MapLapse demo](/images/Screenshot 2025-02-16 191902.png)
+<img src="../../images/Screenshot 2025-02-16 191902.png">
 [MapLapse](https://gteref.github.io/maplapse-js/) | JavaScript, D3.js, Plotly, Mapbox
 * Developed an interactive web application using Plotly.js and Mapbox-gl that enables dynamic visualization of geographic data,
 allowing users to animate changes across various datasets spanning multiple years and regions using a slider.
