@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+## Last updated 2/16/2025
+
 <object data="../files/Giovanni-Iva-Terefi-primary-resume.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 <!-- Education
